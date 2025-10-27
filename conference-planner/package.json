@@ -1,7 +1,7 @@
 {
   "name": "conference-planner",
   "private": true,
-  "homepage": "https://github.com/shridhmt/javascriptEssentials/conference-planner",
+  "homepage": "https://shridhmt.github.io/javascriptEssentials/conference-planner",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
